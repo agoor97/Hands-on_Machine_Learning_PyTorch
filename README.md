@@ -1,6 +1,6 @@
 # Hands-on Machine_Learning_PyTorch  💡💡💡💡
 
-## My illustrative Notebooks for Machine Learning topics using PyTorch 👌👌👌👌
+## My illustrative Notebooks for Machine Learning topics using PyTorch 👌👌�
 
 #### This Repository consists of three floders:  
 **1. PyTorch Fundamental**
