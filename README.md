@@ -2,6 +2,8 @@
 
 ## My illustrative Notebooks for Machine Learning topics using PyTorch 👌👌👌
 
+##### `Note --> My Objective here is not to get the best Model, Only to present some work of my PyTorch practice`
+
 #### This Repository consists of three floders:  
 **1. PyTorch Fundamental**
   * 01- PyTorch Fundamental
